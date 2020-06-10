@@ -14,7 +14,6 @@
 项目ID——项目的唯一标识符。
 类别——项目的类别。
   
-	
 要求：
 (i)将yooopt -click .dat数据集文件加载到具有正确类型的Spark数据格式中，并打印它的schema。
 (ii)实现一系列DataFrame转换以及一个产生最终输出的操作。不要将任何数据 spark Dataframe转换成Python数据结构，比如Pandas DataFrame，
