@@ -1,6 +1,7 @@
 # Yoochoose-Clicks-Dataset
 # Ass2-task1
 
+
 # 任务简介：
     使用Spark的DataFrame API对给定的单击事件数据集进行探索性分析。
     目标是计算用户在每个类别中停留的平均时间。
